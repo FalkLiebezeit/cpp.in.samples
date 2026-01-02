@@ -1,0 +1,14 @@
+# Makefile
+# Ein simples Makefile mit zwei Zielen (targets)
+
+# Ziel 1:
+testprogramm:
+# Datei "mytest" wird erzeugt ...
+  gcc -o mytest main.c test1.c test2.c -lm
+# ... fertig
+
+# Ziel 2:
+debugprogramm:
+# Debug-Version wird erstellt
+  gcc -DDEBUG -ggdb3 -o mytest.db main.c test1.c test2.c -lm
+# ... fertig mit Debug-Version

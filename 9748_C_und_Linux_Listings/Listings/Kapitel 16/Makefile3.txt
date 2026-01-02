@@ -1,0 +1,15 @@
+# Makefile3
+# Ein simples Makefile
+
+# Ziel mytest
+mytest: main.o test1.o test2.o
+# Datei "mytest" wird erzeugt ...
+  gcc -o mytest main.o test1.o test2.o -lm
+
+# Abhängigkeitsliste
+main.o: main.c
+   gcc -c main.c
+test1.o: test1.c
+   gcc -c test1.c
+test2.o: test2.c mytest.h
+   gcc -c test2.c
