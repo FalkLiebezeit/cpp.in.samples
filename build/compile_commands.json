@@ -1,0 +1,80 @@
+[
+{
+  "directory": "C:/Users/Falk/source/repos/cpp.in.samples/build",
+  "command": "C:\\PROGRA~1\\MICROS~3\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /W4 /Fobasics\\CMakeFiles\\hello_world.dir\\hello_world.cpp.obj /Fdbasics\\CMakeFiles\\hello_world.dir\\ /FS -c C:\\Users\\Falk\\source\\repos\\cpp.in.samples\\basics\\hello_world.cpp",
+  "file": "C:/Users/Falk/source/repos/cpp.in.samples/basics/hello_world.cpp",
+  "output": "C:/Users/Falk/source/repos/cpp.in.samples/build/basics/CMakeFiles/hello_world.dir/hello_world.cpp.obj"
+},
+{
+  "directory": "C:/Users/Falk/source/repos/cpp.in.samples/build",
+  "command": "C:\\PROGRA~1\\MICROS~3\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /W4 /Fobasics\\CMakeFiles\\variables_types.dir\\variables_types.cpp.obj /Fdbasics\\CMakeFiles\\variables_types.dir\\ /FS -c C:\\Users\\Falk\\source\\repos\\cpp.in.samples\\basics\\variables_types.cpp",
+  "file": "C:/Users/Falk/source/repos/cpp.in.samples/basics/variables_types.cpp",
+  "output": "C:/Users/Falk/source/repos/cpp.in.samples/build/basics/CMakeFiles/variables_types.dir/variables_types.cpp.obj"
+},
+{
+  "directory": "C:/Users/Falk/source/repos/cpp.in.samples/build",
+  "command": "C:\\PROGRA~1\\MICROS~3\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /W4 /Fobasics\\CMakeFiles\\control_flow.dir\\control_flow.cpp.obj /Fdbasics\\CMakeFiles\\control_flow.dir\\ /FS -c C:\\Users\\Falk\\source\\repos\\cpp.in.samples\\basics\\control_flow.cpp",
+  "file": "C:/Users/Falk/source/repos/cpp.in.samples/basics/control_flow.cpp",
+  "output": "C:/Users/Falk/source/repos/cpp.in.samples/build/basics/CMakeFiles/control_flow.dir/control_flow.cpp.obj"
+},
+{
+  "directory": "C:/Users/Falk/source/repos/cpp.in.samples/build",
+  "command": "C:\\PROGRA~1\\MICROS~3\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /W4 /Fostl\\CMakeFiles\\vector_example.dir\\vector_example.cpp.obj /Fdstl\\CMakeFiles\\vector_example.dir\\ /FS -c C:\\Users\\Falk\\source\\repos\\cpp.in.samples\\stl\\vector_example.cpp",
+  "file": "C:/Users/Falk/source/repos/cpp.in.samples/stl/vector_example.cpp",
+  "output": "C:/Users/Falk/source/repos/cpp.in.samples/build/stl/CMakeFiles/vector_example.dir/vector_example.cpp.obj"
+},
+{
+  "directory": "C:/Users/Falk/source/repos/cpp.in.samples/build",
+  "command": "C:\\PROGRA~1\\MICROS~3\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /W4 /Fostl\\CMakeFiles\\map_example.dir\\map_example.cpp.obj /Fdstl\\CMakeFiles\\map_example.dir\\ /FS -c C:\\Users\\Falk\\source\\repos\\cpp.in.samples\\stl\\map_example.cpp",
+  "file": "C:/Users/Falk/source/repos/cpp.in.samples/stl/map_example.cpp",
+  "output": "C:/Users/Falk/source/repos/cpp.in.samples/build/stl/CMakeFiles/map_example.dir/map_example.cpp.obj"
+},
+{
+  "directory": "C:/Users/Falk/source/repos/cpp.in.samples/build",
+  "command": "C:\\PROGRA~1\\MICROS~3\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /W4 /Fostl\\CMakeFiles\\set_example.dir\\set_example.cpp.obj /Fdstl\\CMakeFiles\\set_example.dir\\ /FS -c C:\\Users\\Falk\\source\\repos\\cpp.in.samples\\stl\\set_example.cpp",
+  "file": "C:/Users/Falk/source/repos/cpp.in.samples/stl/set_example.cpp",
+  "output": "C:/Users/Falk/source/repos/cpp.in.samples/build/stl/CMakeFiles/set_example.dir/set_example.cpp.obj"
+},
+{
+  "directory": "C:/Users/Falk/source/repos/cpp.in.samples/build",
+  "command": "C:\\PROGRA~1\\MICROS~3\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /W4 /Fomodern_cpp\\CMakeFiles\\smart_pointers.dir\\smart_pointers.cpp.obj /Fdmodern_cpp\\CMakeFiles\\smart_pointers.dir\\ /FS -c C:\\Users\\Falk\\source\\repos\\cpp.in.samples\\modern_cpp\\smart_pointers.cpp",
+  "file": "C:/Users/Falk/source/repos/cpp.in.samples/modern_cpp/smart_pointers.cpp",
+  "output": "C:/Users/Falk/source/repos/cpp.in.samples/build/modern_cpp/CMakeFiles/smart_pointers.dir/smart_pointers.cpp.obj"
+},
+{
+  "directory": "C:/Users/Falk/source/repos/cpp.in.samples/build",
+  "command": "C:\\PROGRA~1\\MICROS~3\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /W4 /Fomodern_cpp\\CMakeFiles\\templates.dir\\templates.cpp.obj /Fdmodern_cpp\\CMakeFiles\\templates.dir\\ /FS -c C:\\Users\\Falk\\source\\repos\\cpp.in.samples\\modern_cpp\\templates.cpp",
+  "file": "C:/Users/Falk/source/repos/cpp.in.samples/modern_cpp/templates.cpp",
+  "output": "C:/Users/Falk/source/repos/cpp.in.samples/build/modern_cpp/CMakeFiles/templates.dir/templates.cpp.obj"
+},
+{
+  "directory": "C:/Users/Falk/source/repos/cpp.in.samples/build",
+  "command": "C:\\PROGRA~1\\MICROS~3\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /W4 /Fomodern_cpp\\CMakeFiles\\lambda_example.dir\\lambda_example.cpp.obj /Fdmodern_cpp\\CMakeFiles\\lambda_example.dir\\ /FS -c C:\\Users\\Falk\\source\\repos\\cpp.in.samples\\modern_cpp\\lambda_example.cpp",
+  "file": "C:/Users/Falk/source/repos/cpp.in.samples/modern_cpp/lambda_example.cpp",
+  "output": "C:/Users/Falk/source/repos/cpp.in.samples/build/modern_cpp/CMakeFiles/lambda_example.dir/lambda_example.cpp.obj"
+},
+{
+  "directory": "C:/Users/Falk/source/repos/cpp.in.samples/build",
+  "command": "C:\\PROGRA~1\\MICROS~3\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /W4 /Fomodern_cpp\\CMakeFiles\\move_semantics.dir\\move_semantics.cpp.obj /Fdmodern_cpp\\CMakeFiles\\move_semantics.dir\\ /FS -c C:\\Users\\Falk\\source\\repos\\cpp.in.samples\\modern_cpp\\move_semantics.cpp",
+  "file": "C:/Users/Falk/source/repos/cpp.in.samples/modern_cpp/move_semantics.cpp",
+  "output": "C:/Users/Falk/source/repos/cpp.in.samples/build/modern_cpp/CMakeFiles/move_semantics.dir/move_semantics.cpp.obj"
+},
+{
+  "directory": "C:/Users/Falk/source/repos/cpp.in.samples/build",
+  "command": "C:\\PROGRA~1\\MICROS~3\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /W4 /Foalgorithms\\CMakeFiles\\sorting.dir\\sorting.cpp.obj /Fdalgorithms\\CMakeFiles\\sorting.dir\\ /FS -c C:\\Users\\Falk\\source\\repos\\cpp.in.samples\\algorithms\\sorting.cpp",
+  "file": "C:/Users/Falk/source/repos/cpp.in.samples/algorithms/sorting.cpp",
+  "output": "C:/Users/Falk/source/repos/cpp.in.samples/build/algorithms/CMakeFiles/sorting.dir/sorting.cpp.obj"
+},
+{
+  "directory": "C:/Users/Falk/source/repos/cpp.in.samples/build",
+  "command": "C:\\PROGRA~1\\MICROS~3\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /W4 /Foalgorithms\\CMakeFiles\\searching.dir\\searching.cpp.obj /Fdalgorithms\\CMakeFiles\\searching.dir\\ /FS -c C:\\Users\\Falk\\source\\repos\\cpp.in.samples\\algorithms\\searching.cpp",
+  "file": "C:/Users/Falk/source/repos/cpp.in.samples/algorithms/searching.cpp",
+  "output": "C:/Users/Falk/source/repos/cpp.in.samples/build/algorithms/CMakeFiles/searching.dir/searching.cpp.obj"
+},
+{
+  "directory": "C:/Users/Falk/source/repos/cpp.in.samples/build",
+  "command": "C:\\PROGRA~1\\MICROS~3\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /W4 /Foalgorithms\\CMakeFiles\\stl_algorithms.dir\\stl_algorithms.cpp.obj /Fdalgorithms\\CMakeFiles\\stl_algorithms.dir\\ /FS -c C:\\Users\\Falk\\source\\repos\\cpp.in.samples\\algorithms\\stl_algorithms.cpp",
+  "file": "C:/Users/Falk/source/repos/cpp.in.samples/algorithms/stl_algorithms.cpp",
+  "output": "C:/Users/Falk/source/repos/cpp.in.samples/build/algorithms/CMakeFiles/stl_algorithms.dir/stl_algorithms.cpp.obj"
+}
+]
