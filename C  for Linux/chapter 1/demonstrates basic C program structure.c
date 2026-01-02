@@ -1,9 +1,10 @@
-// ErstesProgramm.c demonstrates basic C program structure
-// First program -
+// First program - demonstrates basic C program structure
 #include <stdio.h>
 
-int main(void) {
+int main(void)
+{
 	// Print a greeting message
 	printf("Hello, this is my first Linux program.\n");
+
 	return 0;
 }
