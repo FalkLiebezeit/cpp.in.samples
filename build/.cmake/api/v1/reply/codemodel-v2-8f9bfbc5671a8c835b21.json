@@ -1,0 +1,232 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "basics",
+					"jsonFile" : "directory-basics-Debug-f5f652cc04176bfc8fe2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "basics",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						11
+					]
+				},
+				{
+					"build" : "stl",
+					"jsonFile" : "directory-stl-Debug-de5b5b0c4daefee436d9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "stl",
+					"targetIndexes" : 
+					[
+						3,
+						6,
+						12
+					]
+				},
+				{
+					"build" : "modern_cpp",
+					"jsonFile" : "directory-modern_cpp-Debug-4a4291701fcc94f1cad6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "modern_cpp",
+					"targetIndexes" : 
+					[
+						2,
+						4,
+						7,
+						10
+					]
+				},
+				{
+					"build" : "algorithms",
+					"jsonFile" : "directory-algorithms-Debug-66cfcee42448d1569f95.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "algorithms",
+					"targetIndexes" : 
+					[
+						5,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					],
+					"name" : "CPPSamples",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "control_flow::@a8b6e44650eda68e5477",
+					"jsonFile" : "target-control_flow-Debug-85062efe795c5ee19756.json",
+					"name" : "control_flow",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "hello_world::@a8b6e44650eda68e5477",
+					"jsonFile" : "target-hello_world-Debug-f044b1643da5d874370d.json",
+					"name" : "hello_world",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "lambda_example::@a107f7170ff41448e3c4",
+					"jsonFile" : "target-lambda_example-Debug-eceb19fa2141cfb57a39.json",
+					"name" : "lambda_example",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "map_example::@2f0c3ea9eb2cc145e9d7",
+					"jsonFile" : "target-map_example-Debug-1ec6ca9af65b0b6c0356.json",
+					"name" : "map_example",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "move_semantics::@a107f7170ff41448e3c4",
+					"jsonFile" : "target-move_semantics-Debug-969d2caa4f87d320af74.json",
+					"name" : "move_semantics",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "searching::@c71d345dacd67b1639ba",
+					"jsonFile" : "target-searching-Debug-eb72c6815a636c728be7.json",
+					"name" : "searching",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "set_example::@2f0c3ea9eb2cc145e9d7",
+					"jsonFile" : "target-set_example-Debug-e396d2d17c9e6e8879dc.json",
+					"name" : "set_example",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "smart_pointers::@a107f7170ff41448e3c4",
+					"jsonFile" : "target-smart_pointers-Debug-6d20de066fa48600c9de.json",
+					"name" : "smart_pointers",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "sorting::@c71d345dacd67b1639ba",
+					"jsonFile" : "target-sorting-Debug-ce96eb71ff4204fb5923.json",
+					"name" : "sorting",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "stl_algorithms::@c71d345dacd67b1639ba",
+					"jsonFile" : "target-stl_algorithms-Debug-167a69de06ee45c095f9.json",
+					"name" : "stl_algorithms",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "templates::@a107f7170ff41448e3c4",
+					"jsonFile" : "target-templates-Debug-43c33c49da061af3075b.json",
+					"name" : "templates",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "variables_types::@a8b6e44650eda68e5477",
+					"jsonFile" : "target-variables_types-Debug-b4a50c0c146bb0764d56.json",
+					"name" : "variables_types",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "vector_example::@2f0c3ea9eb2cc145e9d7",
+					"jsonFile" : "target-vector_example-Debug-186766b142689dea8357.json",
+					"name" : "vector_example",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Falk/source/repos/cpp.in.samples/build",
+		"source" : "C:/Users/Falk/source/repos/cpp.in.samples"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

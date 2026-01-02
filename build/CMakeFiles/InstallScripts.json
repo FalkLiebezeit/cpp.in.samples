@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/Falk/source/repos/cpp.in.samples/build/cmake_install.cmake",
+		"C:/Users/Falk/source/repos/cpp.in.samples/build/basics/cmake_install.cmake",
+		"C:/Users/Falk/source/repos/cpp.in.samples/build/stl/cmake_install.cmake",
+		"C:/Users/Falk/source/repos/cpp.in.samples/build/modern_cpp/cmake_install.cmake",
+		"C:/Users/Falk/source/repos/cpp.in.samples/build/algorithms/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
