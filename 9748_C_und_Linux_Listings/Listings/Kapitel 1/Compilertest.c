@@ -1,8 +1,8 @@
-// Compilertest.c
+// Compilertest.c - Simple program to test compiler functionality
 #include <stdio.h>
 
 int main(int argc, char **argv) {
-	// normalerweise sollte ein Kommentar hier kein Problem sein
-	printf("Das Programm wird erfolgreich ausgeführt\n");
+	// Print success message to verify compiler is working correctly
+	printf("The program executed successfully\n");
 	return 0;
 }
