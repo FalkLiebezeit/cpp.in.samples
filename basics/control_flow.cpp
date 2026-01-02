@@ -3,6 +3,7 @@
 int main() {
     // If-else statement
     int number = 42;
+    
     if (number > 0) {
         std::cout << "Number is positive" << std::endl;
     } else if (number < 0) {
