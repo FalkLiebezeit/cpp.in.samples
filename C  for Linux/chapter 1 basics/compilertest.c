@@ -5,5 +5,6 @@
 int main(void) {
 	// Print success message to verify compilation
 	printf("Program executed successfully\n");
+	
 	return 0;
 }
